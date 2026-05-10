@@ -19,7 +19,8 @@ if __name__ == "__main__":
         "normalization_engine.py",
         "predictive_modeling.py",
         "depot_intelligence.py",
-        "research_analytics.py"
+        "research_analytics.py",
+        "global_roi_optimizer.py"
     ]
     
     all_passed = True
