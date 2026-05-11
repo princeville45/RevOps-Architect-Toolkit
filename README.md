@@ -27,27 +27,27 @@ This repo is that framework made executable.
 ## Modules
 
 ### Statistical Intelligence Layer
-- KPI definition and measurement architecture
-- Custom metric formulas for SME revenue tracking
-- Data normalization and cleansing pipelines
+. KPI definition and measurement architecture
+. Custom metric formulas for SME revenue tracking
+. Data normalization and cleansing pipelines
 
 ### Operations Sync Engine
-- Multi-tool data synchronization (Airtable, Notion, Google Sheets)
-- Automated reporting triggers
-- Cross-platform data integrity checks
+. Multi-tool data synchronization (Airtable, Notion, Google Sheets)
+. Automated reporting triggers
+. Cross-platform data integrity checks
 
 ### EMEA Revenue Module
-- Multi-currency normalization (NGN, USD, EUR, GBP)
-- Market-adjusted revenue reporting
-- Exchange rate injection pipeline
+. Multi-currency normalization (NGN, USD, EUR, GBP)
+. Market-adjusted revenue reporting
+. Exchange rate injection pipeline
 
 ---
 
 ## Certifications
 
-- HubSpot Revenue Operations Certified — May 2026 (Valid: June 2027)
+. HubSpot Revenue Operations Certified — May 2026 (Valid: June 2027)
   Code: 41905e76785a430799f42d6324e72299
-- HubSpot Reporting Certified — May 2026 (Valid: June 2027)
+. HubSpot Reporting Certified — May 2026 (Valid: June 2027)
   Code: f04c48dd3f964fe2865a630d198e0544
 
 ---
@@ -69,8 +69,8 @@ This repo is that framework made executable.
 **Irem Victor Chinonso** — Statistical Business Architect, Ife, Nigeria.
 Building data-driven systems at the intersection of statistics, operations, and AI.
 
-- Email: princeville45@gmail.com
-- GitHub: [github.com/princeville45](https://github.com/princeville45)
+. Email: princeville45@gmail.com
+. GitHub: [github.com/princeville45](https://github.com/princeville45)
 
 ---
 
